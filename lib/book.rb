@@ -19,4 +19,3 @@ end
     @genre = genre
     GENRES << genre 
   end
-end
