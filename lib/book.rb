@@ -1,5 +1,5 @@
 class Book
-  attr_accessor :author, :page_count
+  attr_accessor :author, :page_count    # remove the attr_accessor for genre
   attr_reader :title, :genre
 
 GENRES = []
